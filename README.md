@@ -13,7 +13,7 @@
 
 
 
-[wasdfg's github stats](https://github-readme-stats.vercel.app/api?username=wasdfg&show_icons=true)</br></br>
+[wasdfg's github stats](https://github-readme-stats.vercel.app/api?username=wasdfg&show_icons=true)
 
 
 
