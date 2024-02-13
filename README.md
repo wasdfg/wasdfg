@@ -15,5 +15,7 @@
 ### 프로젝트 소스코드를 보기
 <a href="https://github.com/wasdfg/spring-boot-project" >spring boot project</a>
 ### 프로그래밍 언어 보기
-<a href="https://github.com/wasdfg/programmers">프로그래머스</a>
+<a href="https://github.com/wasdfg/programmers">프로그래머스</a></br>
 <a href="https://github.com/wasdfg/solved.ac">백준</a>
+### 현재 진행중인 프로젝트
+<a href="https://github.com/wasdfg/board">게시판</a>
