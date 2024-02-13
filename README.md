@@ -15,10 +15,9 @@
 
 
 ### 프로젝트 소스코드 보기
-[spring-boot-project](https://github.com/wasdfg/spring-boot-project){:target="_blank"}
-<a href="https://github.com/wasdfg/spring-boot-project" class="button primary">spring-boot-project</a></br>
+<a href="https://github.com/wasdfg/spring-boot-project" class="button primary">spring-boot-project</a>
 
 ### 프로그래밍 언어 보기
-<a href="https://github.com/wasdfg/programmers/" class="button primary">spring-boot-project</a>  <a href="https://github.com/wasdfg/solved.ac/" class="button primary">spring-boot-project</a></br>
+<a href="https://github.com/wasdfg/programmers/" class="button primary">프로그래머스</a>  <a href="https://github.com/wasdfg/solved.ac/" class="button primary">백준</a>
 ### 현재 진행중인 프로젝트
-<a href="https://github.com/wasdfg/board/" class="button primary">spring-boot-project</a></br>
+<a href="https://github.com/wasdfg/board/" class="button primary">게시판</a>
