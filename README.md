@@ -13,9 +13,9 @@
 ![wasdfg's github stats](https://github-readme-stats.vercel.app/api?username=wasdfg&show_icons=true)
 
 ### 프로젝트 소스코드 보기
-[spring-boot-project]("https://github.com/wasdfg/spring-boot-project"){:target="_blank"}
+![spring-boot-project]("https://github.com/wasdfg/spring-boot-project"){: .btn.btn-default target="_blank"}
 ### 프로그래밍 언어 보기
-[프로그래머스]("https://github.com/wasdfg/programmers/"){:target="_blank"}
-[백준]("https://github.com/wasdfg/solved.ac/"){:target="_blank"}
+![프로그래머스]("https://github.com/wasdfg/programmers/"){: .btn.btn-default target="_blank"}
+![백준]("https://github.com/wasdfg/solved.ac/"){: .btn.btn-default target="_blank"}
 ### 현재 진행중인 프로젝트
-[게시판]("https://github.com/wasdfg/board/"){:target="_blank"}
+![게시판]("https://github.com/wasdfg/board/"){: .btn.btn-default target="_blank"}
