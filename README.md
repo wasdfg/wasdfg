@@ -10,18 +10,13 @@
 <a href="https://github.com/wasdfg/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasdfg&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% /></a> 
 
-[wasdfg's github stats](https://github-readme-stats.vercel.app/api?username=wasdfg&show_icons=true)
-
-
-
-
-
-
+[wasdfg's github stats](https://github-readme-stats.vercel.app/api?username=wasdfg&show_icons=true)<br><br>
 
 
 ### 프로젝트 소스코드 보기
-<a href="https://github.com/wasdfg/spring-boot-project" class="button">spring-boot-project</a>
+<a href="https://github.com/wasdfg/spring-boot-project" class="button">spring-boot-project</a><br>
+
 ### 프로그래밍 언어 보기
-<a href="https://github.com/wasdfg/programmers/" class="button">spring-boot-project</a>  <a href="https://github.com/wasdfg/solved.ac/" class="button">spring-boot-project</a>
+<a href="https://github.com/wasdfg/programmers/" class="button">spring-boot-project</a>  <a href="https://github.com/wasdfg/solved.ac/" class="button">spring-boot-project</a><br>
 ### 현재 진행중인 프로젝트
 <a href="https://github.com/wasdfg/board/" class="button">spring-boot-project</a>
