@@ -17,4 +17,4 @@
 ### 프로그래밍 소스코드 보기
 <a href="https://github.com/wasdfg/programmers/" target="_blank">프로그래머스</a>  <a href="https://github.com/wasdfg/solved.ac/" target="_blank">백준</a>
 ### 현재 진행중인 프로젝트 보기
-<a href="https://github.com/wasdfg/board/"target="_blank">게시판</a>
+<a href="https://github.com/wasdfg/board/" target="_blank">게시판</a>
