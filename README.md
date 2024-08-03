@@ -12,9 +12,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasdfg&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% /></a> 
 
 ### 프로젝트 소스코드 보기
-<a href="https://github.com/wasdfg/spring-boot-project" target="_blank">spring-boot-project</a>
+<a href="https://github.com/wasdfg/board/" target="_blank">게시판</a><br><a href="https://github.com/wasdfg/spring-boot-project" target="_blank">spring-boot-project</a>
 
 ### 프로그래밍 소스코드 보기
 <a href="https://github.com/wasdfg/programmers/" target="_blank">프로그래머스</a>  <a href="https://github.com/wasdfg/solved.ac/" target="_blank">백준</a>
-### 현재 진행중인 프로젝트 보기
-<a href="https://github.com/wasdfg/board/" target="_blank">게시판</a>
+
+
