@@ -10,10 +10,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasdfg&layout=compact&theme=dracula)
 
 
-### 프로젝트 내용 보기
-<a href="https://github.com/wasdfg/board/" target="_blank">게시판</a><br><a href="https://github.com/wasdfg/spring-boot-project" target="_blank">spring-boot-project</a>
-
-### 알고리즘 소스코드 보기
-<a href="https://github.com/wasdfg/programmers/" target="_blank">프로그래머스</a>  <a href="https://github.com/wasdfg/solved.ac/" target="_blank">백준</a>
-
-
